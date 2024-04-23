@@ -1,0 +1,2 @@
+g++ quores.cpp -o q
+q
